@@ -1,6 +1,7 @@
 ### Hi devs👋
 
-- 🌱 I'm Gustavo Henrique, an beginner developer from São Paulo - Brazil studying systems development at the SENAI 132! 
+- ⚡ I'm Gustavo Henrique, an beginner developer from São Paulo - Brazil 
+- 🌱 Studying systems development at the SENAI 132
 - 💻 Currently learning advanced concepts about Hooks/React and .NET applications
 - 📫 How to reach me: gustavohferreiraalves@gmail.com
   
