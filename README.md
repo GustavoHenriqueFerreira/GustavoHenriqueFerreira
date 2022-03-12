@@ -1,4 +1,9 @@
-## Hi 👋 I'm Gustavo Henrique, an beginner developer from São Paulo - Brazil, studying systems development at the SENAI 132!
+### Hi devs👋
+
+- 🌱 I'm Gustavo Henrique, an beginner developer from São Paulo - Brazil studying systems development at the SENAI 132! 
+- 💻 Currently learning advanced concepts about Hooks/React and .NET applications
+- 📫 How to reach me: gustavohferreiraalves@gmail.com
+
 <div align="center">
   <a href="https://github.com/GustavoHenriqueFerreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueFerreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
