@@ -1,4 +1,4 @@
-### Hi devs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - ⚡ I'm Gustavo Henrique, an beginner developer from São Paulo - Brazil 
 - 🌱 Studying systems development at the SENAI 132
