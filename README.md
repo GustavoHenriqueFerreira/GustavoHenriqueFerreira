@@ -24,6 +24,7 @@
   <img align="center" alt="Gustavo-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Gustavo-Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Gustavo-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="Gustavo-Azure" height="40" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
 </div>
   
   ##
