@@ -1,7 +1,7 @@
 ### Hello welcome to my profile!!
 
 - ⚡ I'm Gustavo Henrique, an beginner developer from São Paulo - Brazil 
-- 🌱 Studying systems development at the SENAI 132
+- 🌱 Finish systems development at the SENAI 132
 - 💻 Currently learning advanced concepts about Hooks-React/React Native and .NET applications
 - 📫 How to reach me: gustavohferreiraalves@gmail.com
   
@@ -30,7 +30,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/guhh.16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_ghziin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Ghziinn #5438" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavohferreiraalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-henrique-b206a621b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
