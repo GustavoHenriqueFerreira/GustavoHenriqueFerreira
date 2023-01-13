@@ -6,12 +6,10 @@
 - 📫 How to reach me: gustavohferreiraalves@gmail.com or https://www.linkedin.com/in/gustavo-henrique-b206a621b/
   
   ##
-
-<div align="center">
-  <a href="https://github.com/GustavoHenriqueFerreira">
-  <img height="180em" src="https://[github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/username=GustavoHenriqueFerreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoHenriqueFerreira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  
+<div align="center"> <a href="https://github.com/GustavoHenriqueFerreira"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueFerreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueFerreira&layout=compact&langs_count=7&theme=tokyonight"/></div>
   
   ##
   
