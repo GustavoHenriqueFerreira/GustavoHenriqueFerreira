@@ -36,3 +36,8 @@
   ![Snake animation](https://github.com/GustavoHenriqueFerreira/GustavoHenriqueFerreira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+## Total de visitas no meu perfil :detective:
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/GustavoHenriqueFerreira/count.svg" />
+ </p>
