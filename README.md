@@ -12,6 +12,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueFerreira&layout=compact&langs_count=7&theme=tokyonight"/></div>
   
   ##
+
+  <div>
+  <h2>:trophy: Certificações</h2>
+  
+  <a href="https://www.credly.com/badges/289eaa31-cc4d-4734-97a8-69a25b2e37ce/public_url" target="blank">
+    <img width="15%" height="15%"  src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
+  </a>
+</div>
+
+  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
