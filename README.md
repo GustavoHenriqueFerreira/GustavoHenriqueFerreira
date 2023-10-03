@@ -2,7 +2,7 @@
 
 - ⚡ I'm Gustavo Henrique, an full-stack developer from São Paulo - Brazil 
 - 🌱 Finish systems development at the SENAI de informática
-- 💻 Currently learning advanced concepts about Hooks-React/React Native and .NET applications
+- 💻 Currently learning Java and Spring Boot
 - 📫 How to reach me: gustavohferreiraalves@gmail.com or https://www.linkedin.com/in/gustavo-henrique-ferreira
   
   ##
