@@ -2,7 +2,7 @@
 
 - ⚡ I'm Gustavo Henrique, an full-stack developer from São Paulo - Brazil 
 - 🌱 Finish systems development at the SENAI de informática
-- 💻 Currently learning Java and Spring Boot
+- 💻 Currently learning Kotlin Multiplatform
 - 📫 How to reach me: gustavohferreiraalves@gmail.com or https://www.linkedin.com/in/gustavo-henrique-ferreira
   
   ##
