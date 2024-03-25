@@ -1,8 +1,8 @@
 ### Hello welcome to my profile!!
 
-- ⚡ I'm Gustavo Henrique, an full-stack developer from São Paulo - Brazil 
-- 🌱 Finish systems development at the SENAI de informática
-- 💻 Currently learning Kotlin Multiplatform
+- ⚡ I'm Gustavo Henrique, a full-stack developer from São Paulo, Brazil
+- 🌱 Completed systems development at SENAI de Informática, now pursuing Information Systems studies at USP
+- 💻 Currently delving into Kotlin Multiplatform development for versatile solutions
 - 📫 How to reach me: gustavohferreiraalves@gmail.com or https://www.linkedin.com/in/gustavo-henrique-ferreira
   
   ##
