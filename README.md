@@ -2,7 +2,7 @@
 
 - ⚡ Full-stack developer from São Paulo, Brazil
 - 🌱 Currently pursuing Information Systems studies at USP, completed Systems Development at SENAI de Informática
-- 💻 Currently delving into Kotlin Multiplatform development for versatile solutions
+- 💻 Currently diving into Kotlin Multiplatform development for versatile solutions
 - 📫 How to reach me: gustavohferreiraalves@gmail.com or https://www.linkedin.com/in/gustavo-henrique-ferreira
   
   ##
