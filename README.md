@@ -41,6 +41,7 @@
   <img loading="lazy" align="center" alt="Gustavo-Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
   <img loading="lazy" align="center" alt="Gustavo-SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img loading="lazy" align="center" alt="Gustavo-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img loading="lazy" align="center" alt="Gustavo-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
   
   ##
