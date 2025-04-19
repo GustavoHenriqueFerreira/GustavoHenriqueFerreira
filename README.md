@@ -33,6 +33,7 @@
   
 <div style="display: inline_block"><br>
   <img loading="lazy" align="center" alt="Gustavo-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img loading="lazy" align="center" alt="Gustavo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img loading="lazy" align="center" alt="Gustavo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img loading="lazy" align="center" alt="Gustavo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img loading="lazy" align="center" alt="Gustavo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,12 +45,8 @@
   <img loading="lazy" align="center" alt="Gustavo-Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
   <img loading="lazy" align="center" alt="Gustavo-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img loading="lazy" align="center" alt="Gustavo-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img loading="lazy" align="center" alt="Gustavo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img loading="lazy" align="center" alt="Gustavo-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img loading="lazy" align="center" alt="Gustavo-Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
   <img loading="lazy" align="center" alt="Gustavo-SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img loading="lazy" align="center" alt="Gustavo-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img loading="lazy" align="center" alt="Gustavo-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
   
   ##
