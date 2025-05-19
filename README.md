@@ -37,8 +37,6 @@
   <img loading="lazy" align="center" alt="Gustavo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img loading="lazy" align="center" alt="Gustavo-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img loading="lazy" align="center" alt="Gustavo-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img loading="lazy" align="center" alt="Gustavo-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img loading="lazy" align="center" alt="Gustavo-Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img loading="lazy" align="center" alt="Gustavo-SQL" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img loading="lazy" align="center" alt="Gustavo-Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
   <img loading="lazy" align="center" alt="Gustavo-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
