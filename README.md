@@ -2,7 +2,7 @@
 
 - ⚡ Full-stack developer from São Paulo, Brazil
 - 🌱 Pursuing Bachelor's Degree in Information Systems at USP, completed Systems Development at SENAI de Informática
-- 💻 Currently diving into .NET development and AI for versatile solutions
+- 💻 Currently diving into .NET/Python development and AI for versatile solutions
 - 📫 How to reach me: gustavohferreiraalves@gmail.com or https://www.linkedin.com/in/gustavo-henrique-ferreira
   
   ##
